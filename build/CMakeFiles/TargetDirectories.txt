@@ -1,0 +1,5 @@
+/mnt/c/Users/david/bju/arm/cps310-simulator-dhaye039/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/david/bju/arm/cps310-simulator-dhaye039/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/david/bju/arm/cps310-simulator-dhaye039/build/CMakeFiles/test.dir
+/mnt/c/Users/david/bju/arm/cps310-simulator-dhaye039/build/CMakeFiles/tests_exe.dir
+/mnt/c/Users/david/bju/arm/cps310-simulator-dhaye039/build/CMakeFiles/ask.dir
